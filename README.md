@@ -1,6 +1,6 @@
 # TCP Client Example
 
-This repository contains a Python TCP client that demonstrates how to establish and manage a TCP socket connection for efficient data communication with a server. The client is built using the `TCPlient` class designed by [Phan Khac Hai]([https://khphan.com/2023/08/25/building-a-tcp-client-for-seamless-data-communication-a-python-example/])
+This repository contains a Python TCP client that demonstrates how to establish and manage a TCP socket connection for efficient data communication with a server. The client is built using the `TCPlient` class designed by [Phan Khac Hai](https://khphan.com/2023/08/25/building-a-tcp-client-for-seamless-data-communication-a-python-example/)
 
 ## Features
 
