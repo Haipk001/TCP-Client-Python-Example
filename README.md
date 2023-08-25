@@ -29,6 +29,3 @@ Contributions are welcome! If you find any issues or have improvements to sugges
 - `TCPlient` class designed by [Phan Khac Hai](https://khphan.com).
 - This project was inspired by the discussion on [Stack Overflow](https://stackoverflow.com/questions/17963485/python-socket-connection-class). Thanks to the community for valuable insights and guidance.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
