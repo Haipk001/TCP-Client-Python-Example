@@ -39,8 +39,7 @@ if __name__ == '__main__':
         
         tcp_time_start = time.time() 
         time_start = time.time() 
-        lora_time_start = time.time() 
-        
+         
         while True:
             #Listening commands from server
             tcp.read()
