@@ -2,8 +2,8 @@
 """
 Created on Fri Oct 14 17:35:57 2022
 1. The program template below helps you know how to use the TCP client class 
-2. You can listening and sending data from/to TCP server
-3. It's aware that this template you can put other program to run simultaneously
+2. You can listen and send data from/to the TCP server
+3. It's aware that in this template you can put other programs to run simultaneously
 with TCP client class
  
 @author: Phan Khac Hai homepage: https://khphan.com
